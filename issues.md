@@ -1,4 +1,4 @@
-1. The URL in the repository description and README are pointing to ps-developers-sandbox's copy of the game instead of yours.
+1. The URL in the repository description and README are not there or are pointing to ps-developers-sandbox's copy of the game instead of yours.
 Please fix both, so they point to your copy of the game at https://<HANDLE>/gh-developer-games.
 
 1. When attempting to access this at https://<HANDLE>/gh-developer-games, I am getting a 404. This could be caused by a couple of things:
